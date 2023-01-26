@@ -9,7 +9,7 @@ Also, I love computer and I always wanted to get my hands dirty with coding 👨
 
 <br>
 
-<img align="right" alt="GIF" src="./assets/web-development.gif" width="360px"/>
+<img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
 
 <br>
 
