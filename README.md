@@ -11,7 +11,7 @@ Oh, Hi👋. I'm an ex-chemist who used to build valuable materials element by el
 
 <br>
 
-- 🧑🏻‍💻 I’m currently Learning **JavaScript and Bootstrap**.
+- 🧑🏻‍💻 I’m currently Learning **JavaScript**.
 
 - 🔍 Connect with me on [**Linkedin**](https://www.linkedin.com/in/imostafarh/).
 
