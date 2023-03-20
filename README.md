@@ -1,7 +1,37 @@
 ![Profile Cover](./assets/Cover.png)
 
-<p align="center">
-Oh, Hi👋. I'm an ex-chemist who used to build valuable materials element by element 🧑🏻‍🔬. Currently, I'm a web developer building fascinating web apps element by element 🧑🏻‍💻, just like chemistry 😉. </p>
+
+```javascript
+class Developer {
+  constructor(name, job, technology, lib) {
+    this.name = name;
+    this.job = job;
+    this.technology = technology;
+    this.lib = lib;
+  }
+  displayInfo() {
+    console.log(
+      `Hi, I'm ${this.name}, a ${
+        this.job.inPresent
+      } building web apps with ${this.technology.join(", ")}, ${this.lib.join(
+        ", "
+      )}.`
+    );
+  }
+}
+
+let whoAmI = new Developer(
+  "Mostafa",
+  {
+    inPast: "Chemist",
+    inPresent: "Front-End Developer",
+  },
+  ["HTML", "CSS", "JavaScript"],
+  ["BootStrap", "React"]
+);
+
+whoAmI.displayInfo();
+```
 
 ##
 
