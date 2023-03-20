@@ -1,8 +1,8 @@
 ## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, Hola, 您好, هلا والله
 
-### <img align="left" alt="thinking" src="./assets/hacker-thinking-about-code.gif" width="60px"/> About me.. ☺️
+### About me.. ☺️
 
-
+<img align="right" alt="thinking" src="./assets/thinking-man-with-question-mark.gif" width="360px"/>
 
 ```javascript
 class Developer {
@@ -42,7 +42,7 @@ whoAmI.displayInfo();
 
 <br>
 
-- 🧑🏻‍💻 I’m currently Learning **JavaScript**.
+- 🧑🏻‍💻 I’m currently Learning **React**.
 
 - 🔍 Connect with me on [**Linkedin**](https://www.linkedin.com/in/imostafarh/).
 
