@@ -1,3 +1,4 @@
+<img align="center" alt="Hi" src="./assets/hi-by-robot.gif" width="100px"/>
 
 ```javascript
 class Developer {
