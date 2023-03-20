@@ -1,4 +1,4 @@
-## <img align="right" alt="Hi" src="./assets/hi-by-robot.gif" width="100px"/> About me.. ☺️
+### <img align="left" alt="Hi" src="./assets/hi-by-robot.gif" width="100px"/> About me.. ☺️
 
 ```javascript
 class Developer {
