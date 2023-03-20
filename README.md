@@ -1,4 +1,4 @@
-## <img alt="welcome" src="./assets/welcome-garland.gif" width="150px"/> Hi, Hola, 您好, هلا والله
+## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, Hola, 您好, هلا والله
 
 ### <img align="left" alt="thinking" src="./assets/hacker-thinking-about-code.gif" width="60px"/> About me.. ☺️
 
