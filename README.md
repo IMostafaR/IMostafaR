@@ -1,4 +1,5 @@
-![welcom](./assets/welcome-button-english.gif)
+<img src="./assets/welcome-garland.gif"/ alt="welcome" align="center" width= 200px>
+
 
 ### <img align="left" alt="Hi" src="./assets/hi-by-robot.gif" width="50px"/>  About me.. ☺️
 
