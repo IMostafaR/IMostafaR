@@ -1,3 +1,5 @@
+![welcom](./assets/welcome-button-english.gif)
+
 ### <img align="left" alt="Hi" src="./assets/hi-by-robot.gif" width="50px"/>  About me.. ☺️
 
 
