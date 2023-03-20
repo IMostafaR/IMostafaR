@@ -11,7 +11,9 @@ class Developer {
   }
   displayInfo() {
     console.log(
-      `Hi, I'm ${this.name}, a ${this.job.inPresent} building web apps with ${this.technology.join(", ")}, ${this.lib.join(", ")}.`
+      `Hi, I'm ${this.name}, a ${this.job.inPresent} 
+      building web apps with ${this.technology.join(", ")}, 
+      ${this.lib.join(", ")}.`
     );
   }
 }
