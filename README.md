@@ -1,5 +1,8 @@
-![Profile Cover](./assets/Cover.png)
+<br>
 
+<img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
+
+<br>
 
 ```javascript
 class Developer {
@@ -33,11 +36,6 @@ whoAmI.displayInfo();
 
 ##
 
-<br>
-
-<img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
-
-<br>
 
 - 🧑🏻‍💻 I’m currently Learning **JavaScript**.
 
