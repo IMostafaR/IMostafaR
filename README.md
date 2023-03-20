@@ -1,4 +1,4 @@
-<img alt="welcome" src="./assets/welcome-garland.gif" width="100px"/>
+<img alt="welcome" src="./assets/welcome-garland.gif" width="150px"/>
 
 ### <img align="left" alt="Hi" src="./assets/hi-by-robot.gif" width="50px"/>  About me.. ☺️
 
