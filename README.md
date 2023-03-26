@@ -1,5 +1,7 @@
 ## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, Hola, 您好, هلا والله
 
+[![](https://visitcount.itsvg.in/api?id=IMostafaR&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### About me.. ☺️
 
 <img align="right" alt="thinking" src="./assets/thinking-man-with-question-mark.gif" width="360px"/>
