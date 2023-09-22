@@ -4,8 +4,6 @@
 
 ### About me.. ☺️
 
-<img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
-
 ```javascript
 class Developer {
   constructor(
@@ -55,6 +53,8 @@ whoAmI.displayInfo();
 
 ##
 
+<img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
+
 - 🧑🏻‍💻 I’m currently Learning **Node.js**.
 
 - 🔍 Connect with me on [**Linkedin**](https://www.linkedin.com/in/imostafarh/).
@@ -82,4 +82,3 @@ whoAmI.displayInfo();
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMostafaR&layout=compact" alt="github-readme-stats" width="300" />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-```
