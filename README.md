@@ -5,6 +5,8 @@
 ### About me.. ☺️
 
 ```javascript
+script.js;
+
 class Developer {
   constructor(
     name,
@@ -47,13 +49,21 @@ let whoAmI = new Developer(
   ["HTML", "CSS", "Bootstrap", "jQuery", "React"],
   ["Node.js", "Express.js", "MongoDB"]
 );
+```
 
-whoAmI.displayInfo();
+```
+> ~$ node script.js
+
+Hi, I'm Mostafa, and I used to work as a Chemist. Currently, I'm a Full Stack Developer In Training, working with frontend technologies like HTML, CSS, Bootstrap, jQuery, React, backend technologies such as Node.js, Express.js, MongoDB, and writing code in programming languages like JavaScript, Python.
 ```
 
 ##
 
+<br>
+
 <img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
+
+<br>
 
 - 🧑🏻‍💻 I’m currently Learning **Node.js**.
 
