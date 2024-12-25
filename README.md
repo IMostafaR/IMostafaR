@@ -63,10 +63,6 @@ whoAmI.displayInfo();
 
 <br>
 
-- 🧑🏻‍💻 I’m currently Learning **Node.js**.
-
-- 🔍 Connect with me on [**Linkedin**](https://www.linkedin.com/in/imostafarh/).
-
 - 📨 Contact me: **imostaf.ragab@gmail.com**.
 
 <br>
