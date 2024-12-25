@@ -1,6 +1,6 @@
-## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, 您好, هلا
+## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/>
 
-<br>
+
 
 <img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
 
