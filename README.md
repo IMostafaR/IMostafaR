@@ -1,4 +1,4 @@
-## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, 您好, هلا والله
+## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/> Hi, 您好, هلا
 
 <br>
 
