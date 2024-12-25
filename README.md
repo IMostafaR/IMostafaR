@@ -1,14 +1,9 @@
 ## <img alt="welcome" src="./assets/hi-by-robot.gif" width="70px"/>
 
-
-
 <img align="right" alt="GIF" src="./assets/freelance-developer-working-on-laptop.gif" width="360px"/>
 
 <br>
-
 - 📨 Contact me: **imostaf.ragab@gmail.com**.
-
-<br>
 <br>
 
 <p align="left">
